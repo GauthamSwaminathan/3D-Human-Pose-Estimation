@@ -32,9 +32,9 @@ A real-time **multi-view 3D human pose estimation** system using **two Intel Rea
 
 ## Software Requirements
 
-'''bash
+```bash
 pip install opencv-python numpy pyrealsense2 mediapipe matplotlib
-'''
+```
 
 ##Logic Flow
 <img src="Images/3DPose_Logic.svg">
