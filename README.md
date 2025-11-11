@@ -1,5 +1,4 @@
 # 3D-Human-Pose-Estimation
-# Fused 3D Pose Reconstruction with Dual Intel RealSense Cameras
 
 A real-time **multi-view 3D human pose estimation** system using **two Intel RealSense depth cameras**, **MediaPipe Pose**, and **extrinsic calibration** to fuse 3D landmarks into a unified coordinate system. The system visualizes:
 
