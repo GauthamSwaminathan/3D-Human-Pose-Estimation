@@ -36,10 +36,10 @@ A real-time **multi-view 3D human pose estimation** system using **two Intel Rea
 pip install opencv-python numpy pyrealsense2 mediapipe matplotlib
 ```
 
-##Logic Flow
+## Logic Flow
 <img src="Images/3DPose_Logic.svg">
 
-##Output Screeshots
+## Output Screeshots
 <img src="Images/Screenshot 2025-11-11 141203.png">
 <img src="Images/Screenshot 2025-11-11 141218.png">
 <img src="Images/Screenshot 2025-11-11 141301.png">
